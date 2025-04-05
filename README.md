@@ -1,6 +1,7 @@
 **mew based on the latest [commit](https://codeberg.org/sewn/mew/commit/e96bf181b8e5ddf8b463c43a7ac56c10cd859694) as of November 20, 2024**
 
 ## dependencies
+- `fcft`
 - `pkg-config`
 - `wayland`
 - `wayland-protocols`
