@@ -6,7 +6,7 @@ static const char *fonts[]  = { "monospace:size=9" };  /* -f option overrides fo
 static const char *prompt   = NULL;                    /* -p option; prompt to the left of input field */
 static uint32_t colors[][2] = {
 	/*               fg         bg          */
-	[SchemeNorm] = { 0xa89984ff, 0x282828ff },
+	[SchemeNorm] = { 0xa89984ff, 0x32302fff },
 	[SchemeSel]  = { 0xebdbb2ff, 0x458588ff },
 	[SchemeOut]  = { 0x000000ff, 0x00ffffff },
 };
