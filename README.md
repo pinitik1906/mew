@@ -2,6 +2,7 @@
 
 ## dependencies
 - `fcft`
+- `pixman`
 - `pkg-config`
 - `wayland`
 - `wayland-protocols`
